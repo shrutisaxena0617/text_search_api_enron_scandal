@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project I have built a text search api from scratch using python, REST, and natural language processing tools on the publicly available enron dataset<href link='https://www.cs.cmu.edu/~./enron/'></href>. I have used nltk (natural language toolkit) library to clean, tokenize, and lemmatize the email text of enron dataset.
+In this project I have built a text search api from scratch using python, REST, and natural language processing tools on the publicly available enron dataset<a href ="https://www.cs.cmu.edu/~./enron/"></a>. I have used nltk (natural language toolkit) library to clean, tokenize, and lemmatize the email text of enron dataset.
 
 
 ## Getting Started
